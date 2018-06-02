@@ -1,8 +1,8 @@
 {
-  "name": "sendtoken",
+  "name": "tokendistribution",
   "version": "1.0.0",
   "description": "Holds all dependencies",
-  "main": "test.js",
+  "main": "airdrop.js",
   "dependencies": {
     "bignumber": "^1.1.0",
     "bignumber.js": "^7.2.1",
